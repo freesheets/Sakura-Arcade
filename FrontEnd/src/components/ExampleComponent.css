@@ -1,0 +1,26 @@
+.example-component {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.example-component h2 {
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.example-component button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.example-component button:hover {
+  background-color: #0056b3;
+}
+
